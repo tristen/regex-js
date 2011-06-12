@@ -1,0 +1,23 @@
+{
+  "author": "tristen <tristen@tristen.ca> (tristen.ca)",
+  "name": "regex-js",
+  "description": "A regular expression tester/editor",
+  "version": "0.1.0",
+  "repository": {
+    "url": ""
+  },
+  "engines": {
+    "node": "v0.4.8"
+  },
+  "dependencies": {
+    "bones": "https://github.com/developmentseed/bones/tarball/master",
+    "bones-admin": "https://github.com/developmentseed/bones-admin/tarball/master",
+    "bones-auth": "https://github.com/developmentseed/bones-auth/tarball/master",
+    "bones-document": "https://github.com/developmentseed/bones-document/tarball/master",
+    "underscore": "= 1.1.5",
+    "backbone-stash": "0.0.x"
+  },
+  "devDependencies": {
+    "expresso": "0.7.x"
+  }
+}
